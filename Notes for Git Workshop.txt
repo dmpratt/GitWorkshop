@@ -1,0 +1,15 @@
+These are my notes, saved securely in Git!
+
+1.	I want to teach the --amend option in a commit.  This is amazing because I am constantly forgetting something and committing too early!
+2.	git reset (Dangerious? sometimes. misunderstood? often)
+3.	Fetch and Push vs Pull.  Fetch only updates your local branch where pull will include merging changes into your working directory too.
+4.  Mention entire dev team attacked and eaten by wolves on the same night!  HA!
+5.	reflog great for restoring accidental branch deletes
+6.	HEAD~ or HEAD~2
+7.	See what's in a branch and not in another do git log master..topic  It's all in the ..  What's in topic that's not in master.  
+8.	Stash!  No need to apply to the same branch.  Silly TFS.
+9,	git clean - remove all untracked junk.  Be Careful!  Does not remove ignored files, just stuff you didn't want.  -d removes empty dirs too  -n to test
+10.	git grep
+11. git rebase -i HEAD~3  Be so careful
+12. When merging.  Stash or checkin first.  May want to mess with the merge.
+
