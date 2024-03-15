@@ -13,3 +13,4 @@ These are my notes, saved securely in Git!
 11. git rebase -i HEAD~3  Be so careful
 12. When merging.  Stash or checkin first.  May want to mess with the merge.
 
+Make some more changes.
